@@ -1,23 +1,24 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import folders from './folders.json';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+    <div className="container">
+      {folders.map((folder, index) => (
+        <a target='_blank' href={folder.files.main} className="block" key={index}>
+          {folder.image ? (
+            <img
+              src={folder.image} 
+              alt={folder.name}
+              className="block__img"
+            />
+          ) : (
+            <span>No Image Available</span>
+          )}
+          <span className="name">{folder.name}</span>
         </a>
-      </header>
+      ))}
     </div>
   );
 }
