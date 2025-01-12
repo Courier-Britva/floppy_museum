@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/floppy_museum/static/css/main.4c1d762c.css",
+    "main.js": "/floppy_museum/static/js/main.273947dc.js",
+    "index.html": "/floppy_museum/index.html",
+    "main.4c1d762c.css.map": "/floppy_museum/static/css/main.4c1d762c.css.map",
+    "main.273947dc.js.map": "/floppy_museum/static/js/main.273947dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c1d762c.css",
+    "static/js/main.273947dc.js"
+  ]
+}
