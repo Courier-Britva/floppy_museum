@@ -1,0 +1,203 @@
+[
+    {
+      "name": "Азово-Сивашский парк",
+      "image": "/ally/Азово-Сивашский парк/prev.png",
+      "files": {
+        "download": "ally/Азово-Сивашский парк/download.rtf",
+        "main": "ally/Азово-Сивашский парк/main.pdf"
+      }
+    },
+    {
+      "name": "Вторжение",
+      "image": "/ally/Вторжение/prev.png",
+      "files": {
+        "download": "ally/Вторжение/download.DOC",
+        "main": "ally/Вторжение/main.pdf"
+      }
+    },
+    {
+      "name": "Доклад о парках",
+      "image": "/ally/Доклад о парках/prev.png",
+      "files": {
+        "download": "ally/Доклад о парках/download.doc",
+        "main": "ally/Доклад о парках/main.pdf"
+      }
+    },
+    {
+      "name": "Золотые гроздья",
+      "image": "/ally/Золотые гроздья/prev.png",
+      "files": {
+        "download": "ally/Золотые гроздья/download.DOC",
+        "main": "ally/Золотые гроздья/main.pdf"
+      }
+    },
+    {
+      "name": "Календарь 2001",
+      "image": "/ally/Календарь 2001/prev.png",
+      "files": {
+        "download": "ally/Календарь 2001/download.cdr",
+        "main": "ally/Календарь 2001/main.pdf"
+      }
+    },
+    {
+      "name": "Кафедра ботаники",
+      "image": "/ally/Кафедра ботаники/prev.png",
+      "files": {
+        "download": "ally/Кафедра ботаники/download.doc",
+        "main": "ally/Кафедра ботаники/main.pdf"
+      }
+    },
+    {
+      "name": "Книга",
+      "image": "/ally/Книга/prev.png",
+      "files": {
+        "download": "ally/Книга/download.doc",
+        "main": "ally/Книга/main.pdf"
+      }
+    },
+    {
+      "name": "Ландшафтные парки",
+      "image": "/ally/Ландшафтные парки/prev.png",
+      "files": {
+        "download": "ally/Ландшафтные парки/download.doc",
+        "main": "ally/Ландшафтные парки/main.pdf"
+      }
+    },
+    {
+      "name": "Летопись природы",
+      "image": "/ally/Летопись природы/prev.png",
+      "files": {
+        "download": "ally/Летопись природы/download.rtf",
+        "main": "ally/Летопись природы/main.pdf"
+      }
+    },
+    {
+      "name": "Материалы Италии",
+      "image": "/ally/Материалы Италии/prev.png",
+      "files": {
+        "download": "ally/Материалы Италии/SPRINT.DOC",
+        "main": "ally/Материалы Италии/SPRINT.pdf"
+      }
+    },
+    {
+      "name": "Политические партии",
+      "image": "/ally/Политические партии/prev.png",
+      "files": {
+        "download": "ally/Политические партии/download.cdr",
+        "main": "ally/Политические партии/main.pdf"
+      }
+    },
+    {
+      "name": "Семенов",
+      "image": "/ally/Семенов/prev.png",
+      "files": {
+        "download": "ally/Семенов/download.doc",
+        "main": "ally/Семенов/main.pdf"
+      }
+    },
+    {
+      "name": "Сестрическая дача",
+      "image": "/ally/Сестринская дача/prev.png",
+      "files": {
+        "download": "ally/Сестрическая дача/download.zip",
+        "main": "ally/Сестрическая дача/main.pdf"
+      }
+    },
+    {
+      "name": "Сказки тридцати одной ночи",
+      "image": "/ally/Сказки тридцати одной ночи/prev.png",
+      "files": {
+        "download": "ally/Сказки тридцати одной ночи/download.DOC",
+        "main": "ally/Сказки тридцати одной ночи/main.pdf"
+      }
+    },
+    {
+      "name": "Список желаемых иллюстраций",
+      "image": "/ally/Список желаемых иллюстраций/prev.png",
+      "files": {
+        "download": "ally/Список желаемых иллюстраций/download.doc",
+        "main": "ally/Список желаемых иллюстраций/main.pdf"
+      }
+    },
+    {
+      "name": "Список иконок",
+      "image": "/ally/Список иконок/prev.png",
+      "files": {
+        "download": "ally/Список иконок/download.doc",
+        "main": "ally/Список иконок/main.pdf"
+      }
+    },
+    {
+      "name": "Список иллюстраций",
+      "image": "/ally/Список иллюстраций/prev.png",
+      "files": {
+        "download": "ally/Список иллюстраций/download.doc",
+        "main": "ally/Список иллюстраций/main.pdf"
+      }
+    },
+    {
+      "name": "Стена терпения",
+      "image": "/ally/Стена терпения/prev.png",
+      "files": {
+        "download": "ally/Стена терпения/download.DOC",
+        "main": "ally/Стена терпения/main.pdf"
+      }
+    },
+    {
+      "name": "Стихи",
+      "image": "/ally/Стихи/prev.png",
+      "files": {
+        "download": "ally/Стихи/download.dot",
+        "main": "ally/Стихи/main.pdf"
+      }
+    },
+    {
+      "name": "Таинственные сны",
+      "image": "/ally/Таинственные сны/prev.png",
+      "files": {
+        "download": "ally/Таинственные сны/download.DOC",
+        "main": "ally/Таинственные сны/main.pdf"
+      }
+    },
+    {
+      "name": "Украинское кино",
+      "image": "/ally/Украинское кино/prev.png",
+      "files": {
+        "download": "ally/Украинское кино/download.doc",
+        "main": "ally/Украинское кино/main.pdf"
+      }
+    },
+    {
+      "name": "Украинское полесье",
+      "image": "/ally/Украинское полесье/prev.png",
+      "files": {
+        "download": "ally/Украинское полесье/download.CDR",
+        "main": "ally/Украинское полесье/main.pdf"
+      }
+    },
+    {
+      "name": "Флористичные ценности",
+      "image": "/ally/Флористичные ценности/prev.png",
+      "files": {
+        "download": "ally/Флористичные ценности/download.doc",
+        "main": "ally/Флористичные ценности/main.pdf"
+      }
+    },
+    {
+      "name": "Черно-белые истории",
+      "image": "/ally/Черно-белые истории/prev.png",
+      "files": {
+        "download": "ally/Черно-белые истории/download.DOC",
+        "main": "ally/Черно-белые истории/main.pdf"
+      }
+    },
+    {
+      "name": "Шаблон гербария",
+      "image": "/ally/Шаблон гербария/prev.png",
+      "files": {
+        "download": "ally/Шаблон гербария/download.doc",
+        "main": "ally/Шаблон гербария/main.pdf"
+      }
+    }
+  ]
+  
